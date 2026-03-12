@@ -6,6 +6,7 @@ Users can support creators by making payments, similar to Patreon.
 ## Features
 
 - Creator support system
+
 - Razorpay payment integration
 - Secure payment verification
 - Next.js frontend + API routes
